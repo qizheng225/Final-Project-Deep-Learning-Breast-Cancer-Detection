@@ -5,7 +5,7 @@ pipeline covering: multi-architecture transfer learning, class-imbalance
 handling, hyperparameter tuning, fine-tuning, Grad-CAM, DeepLIFT, and a full
 unit test suite.
 
-To run this project, you will need to seperately download the CBIS-DDSM dataset. It should be added as a folder named "cbis-ddsm".
+To run this project, you will need to seperately download the CBIS-DDSM dataset. It should be added as a folder named "cbis-ddsm". Additionally, "final_model_finetuned.keras" was not included inside model_outputs due to file size.
 
 ## Project layout
 
